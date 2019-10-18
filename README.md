@@ -12,30 +12,30 @@ Siapapun Boleh kontribusi dalam project ini dengan cara membuat issue dan clonin
 │   ├── middleware
 │   ├── models
 │   ├── node_modules
-|   ├── public
-|   ├── routes
-|   ├── .gitignore
-|   ├── app.js
-|   ├── package-lock.json
-|   ├── package.json
+│   ├── public
+│   ├── routes
+│   ├── .gitignore
+│   ├── app.js
+│   ├── package-lock.json
+│   ├── package.json
 │   └── README.md
 ├── Frontend
 │   ├── node_modules
 │   ├── public
 │   ├── src
-|   |   ├── action
-│   |   ├── components
-│   |   ├── config
-│   |   ├── pages
-│   |   ├── reducers
-|   |   ├── store
-|   |   ├── utils
-│   |   ├── App.css
-│   |   ├── App.js
-|   |   ├── App.test.js
-|   |   ├── index.js
-│   |   ├── logo.png
-│   |   └── serviceWorker.js
+│   │   ├── action
+│   │   ├── components
+│   │   ├── config
+│   │   ├── pages
+│   │   ├── reducers
+│   │   ├── store
+│   │   ├── utils
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── App.test.js
+│   │   ├── index.js
+│   │   ├── logo.png
+│   │   └── serviceWorker.js
 │   ├── .env
 │   ├── .gitignore
 |   ├── package-lock.json
@@ -46,4 +46,4 @@ Siapapun Boleh kontribusi dalam project ini dengan cara membuat issue dan clonin
 
 Semoga project ini bisa membantu temen-temen semua, dan jangan lupa untuk ikut partisipasi dalam pengembangan project ini.
 
-HAPPY CODING !!
+Let's Contribute and Happy Coding!!

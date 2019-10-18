@@ -38,8 +38,8 @@ Siapapun Boleh kontribusi dalam project ini dengan cara membuat issue dan clonin
 │   │   └── serviceWorker.js
 │   ├── .env
 │   ├── .gitignore
-|   ├── package-lock.json
-|   ├── package.json
+│   ├── package-lock.json
+│   ├── package.json
 │   └── README.md
 └── .gitignore
 ```
